@@ -541,7 +541,7 @@ async def account_login(bot: Client, m: Message):
                       f"╭━━━━━━━━━━━╮\n"
                       f"🎥VIDEO ID : {str(count).zfill(3)}\n"
                       f"╰━━━━━━━━━━━╯\n\n"
-                      f"📄 **Title** : `{name1}.mkv`\n\n"
+                      f"📄 **Title** : **{name1}** <b>@SAINI_SAHAB19</b> **.mkv**\n\n"
                       f"<blockquote>📗 **Batch Name** : {b_name}</blockquote>\n\n"
                       f"📥 **Extracted By** : {MR}\n\n"
                      )                
@@ -550,8 +550,8 @@ async def account_login(bot: Client, m: Message):
                      f"╭━━━━━━━━━━━╮\n"
                      f"📁FILE ID : {str(count).zfill(3)}\n"
                      f"╰━━━━━━━━━━━╯\n\n"
-                     f"📄 **Title** : `{name1}.pdf`\n\n"
-                     f"<blockquote>📗 **Batch Name** : {b_name}</blockquote>\n\n"
+                     f"📄 **Title** : **{name1}**<b>@SAINI_SAHAB19</b>**.pdf**\n\n"
+                     f"<blockquote>📗 **Batch Name** : **{b_name}**</blockquote>\n\n"
                      f"📥 **Extracted By** : {MR}\n\n" 
                     )
 
@@ -559,7 +559,7 @@ async def account_login(bot: Client, m: Message):
                       f"╭━━━━━━━━━━━╮\n"
                       f"🎥VIDEO ID : {str(count).zfill(3)}\n"
                       f"╰━━━━━━━━━━━╯\n\n"
-                      f"📄 **Title** : `{name1}.jpg`\n\n"
+                      f"📄 **Title** : **{name1}**<b>@SAINI_SAHAB19</b>**.jpg**\n\n"
                       f"<blockquote>📗 **Batch Name** : {b_name}</blockquote>\n\n"
                       f"📥 **Extracted By** : {MR}\n\n"
                       )                
@@ -568,7 +568,7 @@ async def account_login(bot: Client, m: Message):
                      f"╭━━━━━━━━━━━╮\n"
                      f"🎥VIDEO ID : {str(count).zfill(3)}\n"
                      f"╰━━━━━━━━━━━╯\n\n"
-                     f"📄 **Title** : `{name1}.mkv`\n\n"
+                     f"📄 **Title** : **{name1}**<b>@SAINI_SAHAB19</b>**.mkv**\n\n"
                      f"<blockquote>📗 **Batch Name** : {b_name}</blockquote>\n\n"
                      f"📥 **Extracted By** : {MR}\n\n" 
                      )
